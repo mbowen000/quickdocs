@@ -1,0 +1,3 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'quickdocs', '~> 0.1.0', path: 'cookbooks/quickdocs'
